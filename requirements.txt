@@ -1,0 +1,25 @@
+# --- The Interface ---
+streamlit
+
+# --- The AI Orchestration ---
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+langchain-unstructured
+
+# --- The Brain (LLM & Embeddings) ---
+openai
+chromadb
+sentence-transformers
+tiktoken
+
+# --- Data Validation ---
+pydantic
+
+# --- Data Ingestion ---
+unstructured[pdf]
+pdf2image
+pdfminer.six
+pillow_heif

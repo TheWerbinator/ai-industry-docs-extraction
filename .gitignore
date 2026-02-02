@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Local Database (Don't upload the raw index)
+chroma_db_hybrid/
+chroma_db_industrial/
+chroma_db_v2/
