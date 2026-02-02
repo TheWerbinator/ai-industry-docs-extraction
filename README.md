@@ -1,4 +1,5 @@
-# ⚙️ Industrial Spec-to-JSON Engine
+# Industrial AI Application
+<img width="2520" height="1345" alt="Screenshot 2026-02-02 151549" src="https://github.com/user-attachments/assets/6dbb2408-d296-4ef0-8ace-0a6f8209db8a" />
 
 ## 🛠️ The Mission
 In industrial automation, data is often trapped in legacy PDF catalogs or technical datasheets. This project is a **Deterministic Extraction Pipeline** designed to ingest unstructured industrial PDFs and transform them into validated, machine-readable JSON schemas.
